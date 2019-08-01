@@ -1,0 +1,15 @@
+{
+  "name": "nativescript-slides-plugin",
+  "main": "nativescript-slides",
+  "typings": "nativescript-slides.d.ts",
+  "version": "0.0.2",
+  "nativescript": {
+    "platforms": {
+      "android": "5.0.0",
+      "ios": "5.0.0"
+    }
+  },
+  "dependencies": {
+    "@proplugins/nativescript-dom": "^2.1.0"
+  }
+}
