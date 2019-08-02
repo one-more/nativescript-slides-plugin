@@ -1,4 +1,4 @@
-require('nativescript-dom');
+require('nativescript-dom-plugin');
 
 import * as app from 'tns-core-modules/application';
 import * as Platform from 'tns-core-modules/platform';
@@ -14,7 +14,7 @@ import { Label } from 'tns-core-modules/ui/label';
 import * as AnimationModule from 'tns-core-modules/ui/animation';
 import * as gestures from 'tns-core-modules/ui/gestures';
 import { AnimationCurve } from 'tns-core-modules/ui/enums';
-import * as TNSDom from 'nativescript-dom';
+import * as TNSDom from 'nativescript-dom-plugin';
 
 const SLIDE_INDICATOR_INACTIVE = 'slide-indicator-inactive';
 const SLIDE_INDICATOR_ACTIVE = 'slide-indicator-active';
