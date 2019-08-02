@@ -10,6 +10,6 @@
     }
   },
   "dependencies": {
-    "nativescript-dom": "^2.0.0"
+    "nativescript-dom-plugin": "git+https://github.com/one-more/nativescript-dom-plugin.git"
   }
 }
